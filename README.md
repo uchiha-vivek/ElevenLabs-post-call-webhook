@@ -92,3 +92,6 @@ Future integrations which will be made:
 - making custom functionalities like average call/total duration and customize stuff.
 
 
+NOTE : You will get HMAC key once you enable the webhook, you need to copy it and paste it in 11 labs
+
+
