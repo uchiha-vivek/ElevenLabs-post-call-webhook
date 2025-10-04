@@ -59,10 +59,13 @@ Now in elevenlabs agent , you need to insert this in **Post-Call webhook** secti
 </a>
 
 
+
 Transcript Notification email
 
+
+
 <a href="https://github.com/uchiha-vivek/ElevenLabs-post-call-webhook">
-    <img src="./assets/Screenshot_20251004_203349_Gmail.jpg" width="550" height='500' alt="ally" style="margin: 0 15px;" />
+    <img src="./assets/Screenshot_20251004_203349_Gmail.jpg" width="550" height='650' alt="ally" style="margin: 0 15px;" />
 </a>
 
 
